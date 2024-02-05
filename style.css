@@ -4,6 +4,8 @@
     border: border-box;
 }
 
+
+
 .navbar {
     height: 60px;   
     background-color: #131921;
@@ -179,12 +181,14 @@ span {
 }
 
 /* Shop Section */
+    
 
 .shop-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e3e6e6;
+    padding-bottom: 20px;
 }
 
 .box {
